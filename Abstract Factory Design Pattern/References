@@ -1,0 +1,12 @@
+ABSTARCT FACTORY INTERFACE (I)  ->  FACTORY(MODERN,ANCIENT) -> MODERNCHAIR,ANCIENTCHAIR <- CHAIR INTERFACE
+
+Abstract Factory patterns work around a super-factory which creates other factories. This factory is also called as factory of factories. 
+This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object.
+
+Reference:
+
+https://refactoring.guru/design-patterns/abstract-factory
+https://youtu.be/v-GiuMmsXj4
+https://youtu.be/KC5tCjHFLsU
+https://youtu.be/5hXZnI86E2Y
+Head First Design Pattern Book
